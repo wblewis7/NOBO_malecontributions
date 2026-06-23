@@ -6,5 +6,5 @@ Authors: James G. Roberts, Justin A. Rectenwald, D. Clay Sisson, Amanda S. Crame
 Manuscript Title: Exploring male contributions to Northern bobwhite demographics
 <br />
 Contact: William B. Lewis, University of Georgia, william.lewis27@uga.edu
-<br />
+
 ---
